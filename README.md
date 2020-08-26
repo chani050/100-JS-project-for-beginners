@@ -1,2 +1,2 @@
-# 100-JS-project-for-beginners
-A repository of 100 very easy projects for beginners
+counter is
+a small project I did to practice code, one a big repository for beginners that I do.
